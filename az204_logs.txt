@@ -1,0 +1,529 @@
+ ms-learn-scraper  python azure_course_scraper.py "https://learn.microsoft.com/en-us/training/courses/az-204t00" --output-dir "az204_data"
+Azure Course Scraper - Metadata Only Version
+Target: https://learn.microsoft.com/en-us/training/courses/az-204t00
+Extract content: True
+Started at: 2025-09-18 10:59:21.365711
+Starting course scrape: https://learn.microsoft.com/en-us/training/courses/az-204t00
+  Fetching: https://learn.microsoft.com/en-us/training/courses/az-204t00
+Found 11 learning paths
+Found existing data - resuming from previous run
+Loaded existing course: Develop Solutions for Microsoft Azure
+
+--- Learning Path 1: Implement Azure App Service web apps ---
+  Fetching: https://learn.microsoft.com/en-us/training/paths/create-azure-app-service-web-apps/
+Found 4 modules
+  Module 1: Explore Azure App Service
+  Fetching: https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-app-service/
+  Found 9 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-app-service/1-introduction
+    Unit 2: Examine Azure App Service
+  Fetching: https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-app-service/2-azure-app-service
+    Unit 3: Examine Azure App Service plans
+  Fetching: https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-app-service/3-azure-app-service-plans
+    Unit 4: Deploy to App Service
+  Fetching: https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-app-service/4-deploy-code-to-app-service
+    Unit 5: Explore authentication and authorization in App Service
+  Fetching: https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-app-service/5-authentication-authorization-app-service
+    Unit 6: Discover App Service networking features
+  Fetching: https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-app-service/6-network-features
+    Unit 7: Exercise: Deploy a containerized app to Azure App Service
+  Fetching: https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-app-service/7-exercise-deploy-containerized-app
+    Unit 8: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-app-service/8-knowledge-check
+    Unit 9: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-app-service/9-summary
+  Module 2: Configure web app settings
+  Fetching: https://learn.microsoft.com/en-us/training/modules/configure-web-app-settings/
+  Found 8 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/configure-web-app-settings/1-introduction
+    Unit 2: Configure application settings
+  Fetching: https://learn.microsoft.com/en-us/training/modules/configure-web-app-settings/2-configure-application-settings
+    Unit 3: Configure general settings
+  Fetching: https://learn.microsoft.com/en-us/training/modules/configure-web-app-settings/3-configure-general-settings
+    Unit 4: Configure path mappings
+  Fetching: https://learn.microsoft.com/en-us/training/modules/configure-web-app-settings/4-configure-path-mappings
+    Unit 5: Enable diagnostic logging
+  Fetching: https://learn.microsoft.com/en-us/training/modules/configure-web-app-settings/5-enable-diagnostic-logging
+    Unit 6: Configure security certificates
+  Fetching: https://learn.microsoft.com/en-us/training/modules/configure-web-app-settings/6-configure-security-certificates
+    Unit 7: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/configure-web-app-settings/7-knowledge-check
+    Unit 8: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/configure-web-app-settings/8-summary
+  Module 3: Scale apps in Azure App Service
+  Fetching: https://learn.microsoft.com/en-us/training/modules/scale-apps-app-service/
+  Found 7 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/scale-apps-app-service/1-introduction
+    Unit 2: Examine scale out options
+  Fetching: https://learn.microsoft.com/en-us/training/modules/scale-apps-app-service/2-autoscale-factors
+    Unit 3: Identify autoscale factors
+  Fetching: https://learn.microsoft.com/en-us/training/modules/scale-apps-app-service/3-app-service-autoscale-conditions-rules
+    Unit 4: Enable autoscale in App Service
+  Fetching: https://learn.microsoft.com/en-us/training/modules/scale-apps-app-service/4-autoscale-app-service
+    Unit 5: Explore autoscale best practices
+  Fetching: https://learn.microsoft.com/en-us/training/modules/scale-apps-app-service/5-autoscale-best-practices
+    Unit 6: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/scale-apps-app-service/6-knowledge-check
+    Unit 7: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/scale-apps-app-service/7-summary
+  Module 4: Explore Azure App Service deployment slots
+  Fetching: https://learn.microsoft.com/en-us/training/modules/understand-app-service-deployment-slots/
+  Found 8 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/understand-app-service-deployment-slots/1-introduction
+    Unit 2: Explore staging environments
+  Fetching: https://learn.microsoft.com/en-us/training/modules/understand-app-service-deployment-slots/2-app-service-staging-environments
+    Unit 3: Examine slot swapping
+  Fetching: https://learn.microsoft.com/en-us/training/modules/understand-app-service-deployment-slots/3-app-service-slot-swapping
+    Unit 4: Swap deployment slots
+  Fetching: https://learn.microsoft.com/en-us/training/modules/understand-app-service-deployment-slots/4-swap-deployment-slots
+    Unit 5: Route traffic in App Service
+  Fetching: https://learn.microsoft.com/en-us/training/modules/understand-app-service-deployment-slots/5-route-traffic-app-service
+    Unit 6: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/understand-app-service-deployment-slots/6-knowledge-check
+    Unit 7: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/understand-app-service-deployment-slots/7-summary
+    Unit 8: Exercise - Swap deployment slots in Azure App Service
+  Fetching: https://learn.microsoft.com/en-us/training/modules/understand-app-service-deployment-slots/4a-exercise-swap-deployment-slots
+
+--- Learning Path 2: Implement Azure Functions ---
+  Fetching: https://learn.microsoft.com/en-us/training/paths/implement-azure-functions/
+Found 2 modules
+  Module 1: Explore Azure Functions
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-functions/
+  Found 6 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-functions/1-introduction
+    Unit 2: Discover Azure Functions
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-functions/2-azure-functions-overview
+    Unit 3: Compare Azure Functions hosting options
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-functions/3-compare-azure-functions-hosting-options
+    Unit 4: Scale Azure Functions
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-functions/4-scale-azure-functions
+    Unit 5: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-functions/5-knowledge-check
+    Unit 6: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-functions/6-summary
+  Module 2: Develop Azure Functions
+  Fetching: https://learn.microsoft.com/en-us/training/modules/develop-azure-functions/
+  Found 7 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/develop-azure-functions/1-introduction
+    Unit 2: Explore Azure Functions development
+  Fetching: https://learn.microsoft.com/en-us/training/modules/develop-azure-functions/2-azure-function-development-overview
+    Unit 3: Create triggers and bindings
+  Fetching: https://learn.microsoft.com/en-us/training/modules/develop-azure-functions/3-create-triggers-bindings
+    Unit 4: Connect functions to Azure services
+  Fetching: https://learn.microsoft.com/en-us/training/modules/develop-azure-functions/4-connect-azure-services
+    Unit 5: Exercise - Create an Azure Function by using Visual Studio Code
+  Fetching: https://learn.microsoft.com/en-us/training/modules/develop-azure-functions/5-create-function-visual-studio-code
+    Unit 6: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/develop-azure-functions/6-knowledge-check
+    Unit 7: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/develop-azure-functions/7-summary
+
+--- Learning Path 3: Develop Solutions That Use Blob Storage ---
+  Fetching: https://learn.microsoft.com/en-us/training/paths/develop-solutions-that-use-blob-storage/
+Found 3 modules
+  Module 1: Explore Azure Blob storage
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-blob-storage/
+  Found 6 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-blob-storage/1-introduction
+    Unit 2: Explore Azure Blob storage
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-blob-storage/2-blob-storage-overview
+    Unit 3: Discover Azure Blob storage resource types
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-blob-storage/3-blob-storage-resources
+    Unit 4: Explore Azure Storage security features
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-blob-storage/4-blob-storage-security
+    Unit 5: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-blob-storage/5-knowledge-check
+    Unit 6: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-blob-storage/6-summary
+  Module 2: Manage the Azure Blob storage lifecycle
+  Fetching: https://learn.microsoft.com/en-us/training/modules/manage-azure-blob-storage-lifecycle/
+  Found 7 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/manage-azure-blob-storage-lifecycle/1-introduction
+    Unit 2: Explore the Azure Blob storage lifecycle
+  Fetching: https://learn.microsoft.com/en-us/training/modules/manage-azure-blob-storage-lifecycle/2-blob-storage-lifecycle
+    Unit 3: Discover Blob storage lifecycle policies
+  Fetching: https://learn.microsoft.com/en-us/training/modules/manage-azure-blob-storage-lifecycle/3-blob-storage-lifecycle-policies
+    Unit 4: Implement Blob storage lifecycle policies
+  Fetching: https://learn.microsoft.com/en-us/training/modules/manage-azure-blob-storage-lifecycle/4-add-policy-blob-storage
+    Unit 5: Rehydrate blob data from the archive tier
+  Fetching: https://learn.microsoft.com/en-us/training/modules/manage-azure-blob-storage-lifecycle/5-rehydrate-blob-data
+    Unit 6: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/manage-azure-blob-storage-lifecycle/6-knowledge-check
+    Unit 7: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/manage-azure-blob-storage-lifecycle/7-summary
+  Module 3: Work with Azure Blob storage
+  Fetching: https://learn.microsoft.com/en-us/training/modules/work-azure-blob-storage/
+  Found 8 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/work-azure-blob-storage/1-introduction
+    Unit 2: Explore Azure Blob storage client library
+  Fetching: https://learn.microsoft.com/en-us/training/modules/work-azure-blob-storage/2-blob-storage-client-library-overview
+    Unit 3: Create a client object
+  Fetching: https://learn.microsoft.com/en-us/training/modules/work-azure-blob-storage/3-create-client-object
+    Unit 4: Exercise - Create Blob storage resources by using the .NET client library
+  Fetching: https://learn.microsoft.com/en-us/training/modules/work-azure-blob-storage/4-develop-blob-storage-dotnet
+    Unit 5: Manage container properties and metadata by using .NET
+  Fetching: https://learn.microsoft.com/en-us/training/modules/work-azure-blob-storage/5-manage-container-properties-metadata-dotnet
+    Unit 6: Set and retrieve properties and metadata for blob resources by using REST
+  Fetching: https://learn.microsoft.com/en-us/training/modules/work-azure-blob-storage/6-set-retrieve-properties-metadata-rest
+    Unit 7: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/work-azure-blob-storage/7-knowledge-check
+    Unit 8: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/work-azure-blob-storage/8-summary
+
+--- Learning Path 4: Az 204 Develop Solutions That Use Azure Cosmos Db ---
+  Fetching: https://learn.microsoft.com/en-us/training/paths/az-204-develop-solutions-that-use-azure-cosmos-db/
+Found 2 modules
+  Module 1: Explore Azure Cosmos DB
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-cosmos-db/
+  Found 10 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-cosmos-db/1-introduction
+    Unit 2: Identify key benefits of Azure Cosmos DB
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-cosmos-db/2-cosmos-db-benefits
+    Unit 3: Explore the resource hierarchy
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-cosmos-db/3-cosmos-db-resource-hierarchy
+    Unit 4: Explore consistency levels
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-cosmos-db/4-cosmos-db-consistency-levels-overview
+    Unit 5: Choose the right consistency level
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-cosmos-db/5-choose-cosmos-db-consistency-level
+    Unit 6: Explore supported APIs
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-cosmos-db/6-cosmos-db-supported-apis
+    Unit 7: Discover request units
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-cosmos-db/7-cosmos-db-request-units
+    Unit 8: Exercise: Create Azure Cosmos DB resources by using the Azure portal
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-cosmos-db/8-create-cosmos-db-resources-portal
+    Unit 9: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-cosmos-db/9-knowledge-check
+    Unit 10: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-azure-cosmos-db/10-summary
+  Module 2: Work with Azure Cosmos DB
+  Fetching: https://learn.microsoft.com/en-us/training/modules/work-with-cosmos-db/
+  Found 8 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/work-with-cosmos-db/1-introduction
+    Unit 2: Explore Microsoft .NET SDK v3 for Azure Cosmos DB
+  Fetching: https://learn.microsoft.com/en-us/training/modules/work-with-cosmos-db/2-cosmos-db-dotnet-overview
+    Unit 3: Exercise - Create resources in Azure Cosmos DB for NoSQL using .NET
+  Fetching: https://learn.microsoft.com/en-us/training/modules/work-with-cosmos-db/3-exercise-work-cosmos-db-dotnet
+    Unit 4: Create stored procedures
+  Fetching: https://learn.microsoft.com/en-us/training/modules/work-with-cosmos-db/4-cosmos-db-stored-procedures
+    Unit 5: Create triggers and user-defined functions
+  Fetching: https://learn.microsoft.com/en-us/training/modules/work-with-cosmos-db/5-cosmos-db-triggers-user-defined-functions
+    Unit 6: Explore change feed in Azure Cosmos DB
+  Fetching: https://learn.microsoft.com/en-us/training/modules/work-with-cosmos-db/6-cosmos-db-change-feed
+    Unit 7: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/work-with-cosmos-db/7-knowledge-check
+    Unit 8: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/work-with-cosmos-db/8-summary
+
+--- Learning Path 5: Az 204 Implement Iaas Solutions ---
+  Fetching: https://learn.microsoft.com/en-us/training/paths/az-204-implement-iaas-solutions/
+Found 3 modules
+  Module 1: Manage container images in Azure Container Registry
+  Fetching: https://learn.microsoft.com/en-us/training/modules/publish-container-image-to-azure-container-registry/
+  Found 8 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/publish-container-image-to-azure-container-registry/1-introduction
+    Unit 2: Discover the Azure Container Registry
+  Fetching: https://learn.microsoft.com/en-us/training/modules/publish-container-image-to-azure-container-registry/2-azure-container-registry-overview
+    Unit 3: Explore storage capabilities
+  Fetching: https://learn.microsoft.com/en-us/training/modules/publish-container-image-to-azure-container-registry/3-azure-container-registry-storage
+    Unit 4: Build and manage containers with tasks
+  Fetching: https://learn.microsoft.com/en-us/training/modules/publish-container-image-to-azure-container-registry/4-azure-container-registry-tasks
+    Unit 5: Explore elements of a Dockerfile
+  Fetching: https://learn.microsoft.com/en-us/training/modules/publish-container-image-to-azure-container-registry/5-dockerfile-components
+    Unit 6: Exercise - Build and run a container image with Azure Container Registry Tasks
+  Fetching: https://learn.microsoft.com/en-us/training/modules/publish-container-image-to-azure-container-registry/6-build-run-image-azure-container-registry
+    Unit 7: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/publish-container-image-to-azure-container-registry/7-knowledge-check
+    Unit 8: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/publish-container-image-to-azure-container-registry/8-summary
+  Module 2: Run container images in Azure Container Instances
+  Fetching: https://learn.microsoft.com/en-us/training/modules/create-run-container-images-azure-container-instances/
+  Found 8 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/create-run-container-images-azure-container-instances/1-introduction
+    Unit 2: Explore Azure Container Instances
+  Fetching: https://learn.microsoft.com/en-us/training/modules/create-run-container-images-azure-container-instances/2-azure-container-instances-overview
+    Unit 3: Exercise - Deploy a container to Azure Container Instances using Azure CLI commands
+  Fetching: https://learn.microsoft.com/en-us/training/modules/create-run-container-images-azure-container-instances/3-run-azure-container-instances-cloud-shell
+    Unit 4: Run containerized tasks with restart policies
+  Fetching: https://learn.microsoft.com/en-us/training/modules/create-run-container-images-azure-container-instances/4-run-containerized-tasks-restart-policies
+    Unit 5: Set environment variables in container instances
+  Fetching: https://learn.microsoft.com/en-us/training/modules/create-run-container-images-azure-container-instances/5-set-environment-variables-azure-container-instances
+    Unit 6: Mount an Azure file share in Azure Container Instances
+  Fetching: https://learn.microsoft.com/en-us/training/modules/create-run-container-images-azure-container-instances/6-mount-azure-file-share-azure-container-instances
+    Unit 7: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/create-run-container-images-azure-container-instances/7-knowledge-check
+    Unit 8: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/create-run-container-images-azure-container-instances/8-summary
+  Module 3: Implement Azure Container Apps
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-container-apps/
+  Found 9 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-container-apps/1-introduction
+    Unit 2: Explore Azure Container Apps
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-container-apps/2-explore-azure-container-apps
+    Unit 3: Exercise - Deploy a container to Azure Container Apps with the Azure CLI
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-container-apps/3-exercise-deploy-app
+    Unit 4: Explore containers in Azure Container Apps
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-container-apps/4-container-apps-containers
+    Unit 5: Implement authentication and authorization in Azure Container Apps
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-container-apps/5-container-apps-authentication
+    Unit 6: Manage revisions and secrets in Azure Container Apps
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-container-apps/6-container-apps-revisions-secrets
+    Unit 7: Explore Dapr integration with Azure Container Apps
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-container-apps/7-explore-distributed-application-runtime
+    Unit 8: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-container-apps/8-knowledge-check
+    Unit 9: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-container-apps/9-summary
+
+--- Learning Path 6: Az 204 Implement Authentication Authorization ---
+  Fetching: https://learn.microsoft.com/en-us/training/paths/az-204-implement-authentication-authorization/
+Found 4 modules
+  Module 1: Explore the Microsoft identity platform
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-microsoft-identity-platform/
+  Found 7 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-microsoft-identity-platform/1-introduction
+    Unit 2: Explore the Microsoft identity platform
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-microsoft-identity-platform/2-microsoft-identity-platform-overview
+    Unit 3: Explore service principals
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-microsoft-identity-platform/3-app-service-principals
+    Unit 4: Discover permissions and consent
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-microsoft-identity-platform/4-permission-consent
+    Unit 5: Discover conditional access
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-microsoft-identity-platform/5-conditional-access
+    Unit 6: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-microsoft-identity-platform/6-knowledge-check
+    Unit 7: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-microsoft-identity-platform/7-summary
+  Module 2: Implement authentication by using the Microsoft Authentication Library
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-authentication-by-using-microsoft-authentication-library/
+  Found 6 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-authentication-by-using-microsoft-authentication-library/1-introduction
+    Unit 2: Explore the Microsoft Authentication Library
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-authentication-by-using-microsoft-authentication-library/2-microsoft-authentication-library-overview
+    Unit 3: Initialize client applications
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-authentication-by-using-microsoft-authentication-library/3-initialize-client-applications
+    Unit 4: Exercise - Implement interactive authentication with MSAL.NET
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-authentication-by-using-microsoft-authentication-library/4-interactive-authentication-msal
+    Unit 5: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-authentication-by-using-microsoft-authentication-library/5-knowledge-check
+    Unit 6: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-authentication-by-using-microsoft-authentication-library/6-summary
+  Module 3: Implement shared access signatures
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-shared-access-signatures/
+  Found 6 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-shared-access-signatures/1-introduction
+    Unit 2: Discover shared access signatures
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-shared-access-signatures/2-shared-access-signatures-overview
+    Unit 3: Choose when to use shared access signatures
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-shared-access-signatures/3-shared-access-signatures
+    Unit 4: Explore stored access policies
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-shared-access-signatures/4-stored-access-policies
+    Unit 5: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-shared-access-signatures/5-knowledge-check
+    Unit 6: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-shared-access-signatures/6-summary
+  Module 4: Explore Microsoft Graph
+  Fetching: https://learn.microsoft.com/en-us/training/modules/microsoft-graph/
+  Found 8 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/microsoft-graph/1-introduction
+    Unit 2: Discover Microsoft Graph
+  Fetching: https://learn.microsoft.com/en-us/training/modules/microsoft-graph/2-microsoft-graph-overview
+    Unit 3: Query Microsoft Graph by using REST
+  Fetching: https://learn.microsoft.com/en-us/training/modules/microsoft-graph/3-microsoft-graph-api
+    Unit 4: Query Microsoft Graph by using SDKs
+  Fetching: https://learn.microsoft.com/en-us/training/modules/microsoft-graph/4-microsoft-graph-sdk
+    Unit 5: Apply best practices to Microsoft Graph
+  Fetching: https://learn.microsoft.com/en-us/training/modules/microsoft-graph/5-microsoft-graph-best-practices
+    Unit 6: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/microsoft-graph/6-knowledge-check
+    Unit 7: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/microsoft-graph/7-summary
+    Unit 8: Exercise - Retrieve user profile information with the Microsoft Graph SDK
+  Fetching: https://learn.microsoft.com/en-us/training/modules/microsoft-graph/5a-exercise-microsoft-graph-user-profile
+
+--- Learning Path 7: Az 204 Implement Secure Cloud Solutions ---
+  Fetching: https://learn.microsoft.com/en-us/training/paths/az-204-implement-secure-cloud-solutions/
+Found 3 modules
+  Module 1: Implement Azure Key Vault
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-key-vault/
+  Found 7 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-key-vault/1-introduction
+    Unit 2: Explore Azure Key Vault
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-key-vault/2-key-vault-overview
+    Unit 3: Discover Azure Key Vault best practices
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-key-vault/3-key-vault-concepts
+    Unit 4: Authenticate to Azure Key Vault
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-key-vault/4-key-vault-authentication
+    Unit 5: Exercise - Create and retrieve secrets from Azure Key Vault
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-key-vault/5-set-retrieve-secret-azure-key-vault
+    Unit 6: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-key-vault/6-knowledge-check
+    Unit 7: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-key-vault/7-summary
+  Module 2: Implement managed identities
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-managed-identities/
+  Found 7 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-managed-identities/1-introduction
+    Unit 2: Explore managed identities
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-managed-identities/2-managed-identities-overview
+    Unit 3: Discover the managed identities authentication flow
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-managed-identities/3-managed-identities-auzre-virtual-machines
+    Unit 4: Configure managed identities
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-managed-identities/4-configure-managed-identities
+    Unit 5: Acquire an access token
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-managed-identities/5-acquire-access-token
+    Unit 6: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-managed-identities/6-knowledge-check
+    Unit 7: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-managed-identities/7-summary
+  Module 3: Implement Azure App Configuration
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-app-configuration/
+  Found 7 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-app-configuration/1-introduction
+    Unit 2: Explore the Azure App Configuration service
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-app-configuration/2-app-configuration-overview
+    Unit 3: Create paired keys and values
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-app-configuration/3-keys-values
+    Unit 4: Manage application features
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-app-configuration/4-app-configuration-feature-management
+    Unit 5: Secure app configuration data
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-app-configuration/5-secure-app-configuration-data
+    Unit 6: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-app-configuration/6-knowledge-check
+    Unit 7: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/implement-azure-app-configuration/7-summary
+
+--- Learning Path 8: Az 204 Implement Api Management ---
+  Fetching: https://learn.microsoft.com/en-us/training/paths/az-204-implement-api-management/
+Found 1 modules
+  Module 1: Explore API Management
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-api-management/
+  Found 10 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-api-management/1-introduction
+    Unit 2: Discover the API Management service
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-api-management/2-api-management-overview
+    Unit 3: Explore API gateways
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-api-management/3-api-gateways
+    Unit 4: Explore API Management policies
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-api-management/4-api-management-policies
+    Unit 5: Create advanced policies
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-api-management/5-create-advanced-policies
+    Unit 6: Secure APIs by using subscriptions
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-api-management/6-secure-access-api-subscriptions
+    Unit 7: Secure APIs by using certificates
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-api-management/7-secure-access-api-certificates
+    Unit 8: Exercise - Import and configure an API with Azure API Management
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-api-management/8-exercise-import-api
+    Unit 9: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-api-management/9-knowledge-check
+    Unit 10: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/explore-api-management/10-summary
+
+--- Learning Path 9: Az 204 Develop Event Based Solutions ---
+  Fetching: https://learn.microsoft.com/en-us/training/paths/az-204-develop-event-based-solutions/
+Found 2 modules
+  Module 1: Explore Azure Event Grid
+  Fetching: https://learn.microsoft.com/en-us/training/modules/azure-event-grid/
+  Found 10 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/azure-event-grid/1-introduction
+    Unit 2: Explore Azure Event Grid
+  Fetching: https://learn.microsoft.com/en-us/training/modules/azure-event-grid/2-event-grid-overview
+    Unit 3: Discover event schemas
+  Fetching: https://learn.microsoft.com/en-us/training/modules/azure-event-grid/3-event-grid-schema
+    Unit 4: Explore event delivery durability
+  Fetching: https://learn.microsoft.com/en-us/training/modules/azure-event-grid/4-event-grid-delivery-retry
+    Unit 5: Control access to events
+  Fetching: https://learn.microsoft.com/en-us/training/modules/azure-event-grid/5-authorize-access-event-grid
+    Unit 6: Receive events by using webhooks
+  Fetching: https://learn.microsoft.com/en-us/training/modules/azure-event-grid/6-webhook-event-delivery
+    Unit 7: Filter events
+  Fetching: https://learn.microsoft.com/en-us/training/modules/azure-event-grid/7-event-grid-filtering
+    Unit 8: Exercise - Route events to a custom endpoint with Event Grid
+  Fetching: https://learn.microsoft.com/en-us/training/modules/azure-event-grid/8-event-grid-custom-events
+    Unit 9: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/azure-event-grid/9-knowledge-check
+    Unit 10: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/azure-event-grid/10-summary
+  Module 2: Explore Azure Event Hubs
+  Fetching: https://learn.microsoft.com/en-us/training/modules/azure-event-hubs/
+  Found 8 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/azure-event-hubs/1-introduction
+    Unit 2: Discover Azure Event Hubs
+  Fetching: https://learn.microsoft.com/en-us/training/modules/azure-event-hubs/2-event-hubs-overview
+    Unit 3: Explore Event Hubs Capture
+  Fetching: https://learn.microsoft.com/en-us/training/modules/azure-event-hubs/3-event-hubs-capture
+    Unit 4: Scale your processing application
+  Fetching: https://learn.microsoft.com/en-us/training/modules/azure-event-hubs/4-event-processing
+    Unit 5: Control access to events
+  Fetching: https://learn.microsoft.com/en-us/training/modules/azure-event-hubs/5-event-hubs-authentication-authorization
+    Unit 6: Perform common operations with the Event Hubs client library
+  Fetching: https://learn.microsoft.com/en-us/training/modules/azure-event-hubs/6-event-hubs-programming-guide
+    Unit 7: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/azure-event-hubs/7-knowledge-check
+    Unit 8: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/azure-event-hubs/8-summary
+
+--- Learning Path 10: Az 204 Develop Message Based Solutions ---
+  Fetching: https://learn.microsoft.com/en-us/training/paths/az-204-develop-message-based-solutions/
+Found 1 modules
+  Module 1: Discover Azure message queues
+  Fetching: https://learn.microsoft.com/en-us/training/modules/discover-azure-message-queue/
+  Found 10 units
+    Unit 1: Introduction
+  Fetching: https://learn.microsoft.com/en-us/training/modules/discover-azure-message-queue/1-introduction
+    Unit 2: Choose a message queue solution
+  Fetching: https://learn.microsoft.com/en-us/training/modules/discover-azure-message-queue/2-choose-queue-solution
+    Unit 3: Explore Azure Service Bus
+  Fetching: https://learn.microsoft.com/en-us/training/modules/discover-azure-message-queue/3-azure-service-bus-overview
+    Unit 4: Discover Service Bus queues, topics, and subscriptions
+  Fetching: https://learn.microsoft.com/en-us/training/modules/discover-azure-message-queue/4-queues-topics-subscriptions
+    Unit 5: Explore Service Bus message payloads and serialization
+  Fetching: https://learn.microsoft.com/en-us/training/modules/discover-azure-message-queue/5-messages-payloads-serialization
+    Unit 6: Exercise - Send and receive messages from Azure Service Bus
+  Fetching: https://learn.microsoft.com/en-us/training/modules/discover-azure-message-queue/6-send-receive-messages-service-bus
+    Unit 7: Explore Azure Queue Storage
+  Fetching: https://learn.microsoft.com/en-us/training/modules/discover-azure-message-queue/7-azure-queue-storage-overview
+    Unit 8: Create and manage Azure Queue Storage and messages by using .NET
+  Fetching: https://learn.microsoft.com/en-us/training/modules/discover-azure-message-queue/8-queue-storage-code-examples
+    Unit 9: Module assessment
+  Fetching: https://learn.microsoft.com/en-us/training/modules/discover-azure-message-queue/9-knowledge-check
+    Unit 10: Summary
+  Fetching: https://learn.microsoft.com/en-us/training/modules/discover-azure-message-queue/10-summary
+
+--- Learning Path 11: Az 204 Instrument Solutions To Support Monitoring Logging ---
+  Fetching: https://learn.microsoft.com/en-us/training/paths/az-204-instrument-solutions-to-support-monitoring-logging/
+  HTTP 404 for https://learn.microsoft.com/en-us/training/paths/az-204-instrument-solutions-to-support-monitoring-logging/
+  Skipping Az 204 Instrument Solutions To Support Monitoring Logging - failed to parse or no modules found
+
+=== SCRAPING COMPLETE ===
+Learning paths: 11
+Total modules: 25
+Total units: 195
+Content extracted: True
+JSON file: az204_data\develop-solutions-for-microsoft-azure_complete.json
+Training JSONL: az204_data\develop-solutions-for-microsoft-azure_training.jsonl
+Summary: az204_data\develop-solutions-for-microsoft-azure_summary.json

@@ -1,0 +1,18 @@
+{
+  "course_title": "Develop Solutions for Microsoft Azure",
+  "course_url": "https://learn.microsoft.com/en-us/training/courses/az-204t00",
+  "scraped_at": "2025-09-18T10:59:21.365711",
+  "learning_paths_count": 11,
+  "total_modules": 25,
+  "total_units": 195,
+  "content_extracted": true,
+  "limits_applied": {
+    "max_paths": null,
+    "max_modules_per_path": null,
+    "max_units_per_module": null
+  },
+  "files_created": [
+    "develop-solutions-for-microsoft-azure_complete.json",
+    "develop-solutions-for-microsoft-azure_training.jsonl"
+  ]
+}

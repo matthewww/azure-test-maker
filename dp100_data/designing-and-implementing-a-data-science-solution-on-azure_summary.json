@@ -1,0 +1,18 @@
+{
+  "course_title": "Designing and implementing a data science solution on Azure",
+  "course_url": "https://learn.microsoft.com/en-us/training/courses/dp-100t01",
+  "scraped_at": "2025-09-18T09:33:41.254296",
+  "learning_paths_count": 6,
+  "total_modules": 23,
+  "total_units": 164,
+  "content_extracted": true,
+  "limits_applied": {
+    "max_paths": null,
+    "max_modules_per_path": null,
+    "max_units_per_module": null
+  },
+  "files_created": [
+    "designing-and-implementing-a-data-science-solution-on-azure_complete.json",
+    "designing-and-implementing-a-data-science-solution-on-azure_training.jsonl"
+  ]
+}
